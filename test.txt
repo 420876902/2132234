@@ -1,0 +1,12 @@
+命令行提示符常见指令：
+    文件夹和文件的操作：
+        
+
+
+gitCDM操作指令：
+    git init：初始化仓库
+    git clone：克隆仓库(可以是远程仓库也可以是本地仓库)
+    git log：git的操作日志
+    git add：提交文件
+        用法：git add 文件名
+             git add *111112222
