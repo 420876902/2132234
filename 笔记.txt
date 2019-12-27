@@ -1,0 +1,24 @@
+命令行提示符常见指令：
+    文件夹和文件的操作：
+        
+
+
+gitCDM操作指令：
+    git init：初始化仓库
+    git clone：克隆仓库(可以是远程仓库也可以是本地仓库)
+    git log：git的操作日志
+    退出日志：英文状态输q
+    git add：提交文件
+        用法：git add 文件名
+             git add *
+    git commit -m "提交说明"
+    git commit -am "提交说明"
+    git status: 查看git的提交状态
+    git diff test.txt：查看本次修改
+
+    git reset --hard 版本标识：回到制定版本
+    git push origin master：将本地仓库推到远程仓库的主分支
+    git fetch：将远程仓库的代码更新到本地仓库
+
+
+    git分支：
